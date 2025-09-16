@@ -1,5 +1,5 @@
 body {
-	background-color: lemonchiffon;
+	background-color: palegreen;
 }
 #intro, #end {
 	background-color: #b4b4b4;
@@ -14,7 +14,7 @@ h1{
 	border: 2px black dotted;
 }
 section {
-	height: 600px;
+	height: 1000px;
 	text-align: center;
 	font-size: 24px;
 	font-family: "Montserrat", sans-serif;
